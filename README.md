@@ -1,0 +1,2 @@
+# CorrinBot
+Discord bot
